@@ -76,19 +76,19 @@ This structure improves query performance and supports efficient analytical repo
 ##  Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](screenshots/executive_summary.png)
+![Executive Summary](Screenshots/executive_summary.png)
 
 ### Category Analysis
 ![Category Analysis](Screenshots/category_analysis.png)
 
 ### Product Analysis
-![Product Analysis](screenshots/product_analysis.png)
+![Product Analysis](Screenshots/product_analysis.png)
 
 ### Customer Analysis
 ![Customer Analysis](Screenshots/customer_analysis.png)
 
 ### Region & State Analysis
-![Region & State Analysis](screenshots/region_state_analysis.png.png)
+![Region & State Analysis](Screenshots/region_state_analysis.png)
 
 ---
 
