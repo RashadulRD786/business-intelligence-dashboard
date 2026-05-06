@@ -87,6 +87,9 @@ This structure improves query performance and supports efficient analytical repo
 ### Customer Analysis
 ![Customer Analysis](screenshots/customer_analysis.png)
 
+### Customer Analysis
+![Region & State Analysis](screenshots/region_state_analysis.png.png)
+
 ---
 
 ##  Repository Structure
@@ -95,6 +98,8 @@ This structure improves query performance and supports efficient analytical repo
 business-intelligence-sales-dashboard
 │
 ├── screenshots/
-├── dashboard.pbix
+├── Superstore_Sales.pbix
 ├── report.pdf
+├── Data-Description - Superstore Sales Dashboard.xlsx
+├── Sample - Superstore.xls
 └── README.md
