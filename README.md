@@ -79,15 +79,15 @@ This structure improves query performance and supports efficient analytical repo
 ![Executive Summary](screenshots/executive_summary.png)
 
 ### Category Analysis
-![Category Analysis](screenshots/category_analysis.png)
+![Category Analysis](Screenshots/category_analysis.png)
 
 ### Product Analysis
 ![Product Analysis](screenshots/product_analysis.png)
 
 ### Customer Analysis
-![Customer Analysis](screenshots/customer_analysis.png)
+![Customer Analysis](Screenshots/customer_analysis.png)
 
-### Customer Analysis
+### Region & State Analysis
 ![Region & State Analysis](screenshots/region_state_analysis.png.png)
 
 ---
